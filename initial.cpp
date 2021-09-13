@@ -1,4 +1,5 @@
-// My Template for Competitve Programming
+// Bismillahir Rahmanir Rahim
+// Code by MD. Sakib Al Hasan 
 
 #include <bits/stdc++.h>
 using namespace std;
