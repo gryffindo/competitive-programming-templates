@@ -7,6 +7,10 @@ using namespace std;
 #define rep(i, n) for (int i = 0; i < n; i++)
 #define fix(X) fixed << setprecision(X)
 #define inf 1e18
+#define an &&
+#define ro ||
+#define pb(x) push_back(x)
+#define pf(x) push_front(x)
 
 const int mod = 1e9 + 7;
 void c_p_c() {
