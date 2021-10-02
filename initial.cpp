@@ -5,10 +5,10 @@
 using namespace std;
 #define ll long long
 #define rep(i, n) for (int i = 0; i < n; i++)
-#define mod 1e9 + 7
 #define fix(X) fixed << setprecision(X)
 #define inf 1e18
 
+const int mod = 1e9 + 7;
 void c_p_c() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
