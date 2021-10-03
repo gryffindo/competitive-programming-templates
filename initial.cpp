@@ -1,4 +1,4 @@
-// Bismillahir Rahmanir Rahim , Allah maei dayiman
+// Bismillahir Rahmanir Rahim
 // Code by MD. Sakib Al Hasan 
 
 #include <bits/stdc++.h>
