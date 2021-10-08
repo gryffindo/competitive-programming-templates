@@ -1,33 +1,34 @@
 // Bismillahir Rahmanir Rahim
-// Code by MD. Sakib Al Hasan 
-
-#include <bits/stdc++.h>
+// Code by MD. Sakib Al Hasan
+#include<bits/stdc++.h>
 using namespace std;
+
 #define ll long long
-#define rep(i, n) for (int i = 0; i < n; i++)
-#define fix(X) fixed << setprecision(X)
-#define inf 1e18
+#define ff(i, n) for(int i = 0; i < n; i++)
+#define ars(i, n, arr) for(int i = 0; i< n; i++) cin >> arr[i];
 #define an &&
 #define ro ||
+#define vi vector<int>
 #define pb(x) push_back(x)
 #define pf(x) push_front(x)
 
-const int mod = 1e9 + 7;
-void c_p_c() {
+const ll inf = 1e18;
+const int mod = 1e9+7;
+
+void finout() {
 	ios_base::sync_with_stdio(false);
 	cin.tie(0);
 	cout.tie(0);
 }
 
-void solve(){
+void solve() {
 
 }
 
-int main(){
-	c_p_c();
-	int t;
-	cin >> t;
-	while (t--)
-		solve();
+int main() {
+	finout();
+	int cases;
+	cin >> cases;
+	while(cases--) solve();
 	return 0;
 }
