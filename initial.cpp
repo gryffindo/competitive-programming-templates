@@ -1,5 +1,5 @@
 // Bismillahir Rahmanir Rahim
-// Code by MD. Sakib Al Hasan
+// Code by Sakib Al Hasan
 #include<bits/stdc++.h>
 using namespace std;
 
